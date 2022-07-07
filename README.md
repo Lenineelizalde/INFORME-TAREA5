@@ -195,6 +195,7 @@ No se induce voltaje debido a que el campo magnetico no cambia.
 
 ## 4.- VIDEO.
 
+https://www.youtube.com/watch?v=5WeLDVr_g8E
 
 ## 5.- CONCLUSIONES.
 
